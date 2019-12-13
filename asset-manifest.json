@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.11209923.chunk.js",
-    "main.js.map": "/static/js/main.11209923.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18fc4e27.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18fc4e27.js.map",
-    "static/js/2.4ecbe9fc.chunk.js": "/static/js/2.4ecbe9fc.chunk.js",
-    "static/js/2.4ecbe9fc.chunk.js.map": "/static/js/2.4ecbe9fc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.51755be5f3f5d6c77437a9f1e1c8bb5d.js": "/precache-manifest.51755be5f3f5d6c77437a9f1e1c8bb5d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4ecbe9fc.chunk.js.LICENSE": "/static/js/2.4ecbe9fc.chunk.js.LICENSE",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/iuricmp/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css",
+    "main.js": "/iuricmp/react-with-custom-icon-font/static/js/main.3fc39d7b.chunk.js",
+    "main.js.map": "/iuricmp/react-with-custom-icon-font/static/js/main.3fc39d7b.chunk.js.map",
+    "runtime-main.js": "/iuricmp/react-with-custom-icon-font/static/js/runtime-main.389f30d3.js",
+    "runtime-main.js.map": "/iuricmp/react-with-custom-icon-font/static/js/runtime-main.389f30d3.js.map",
+    "static/js/2.4ecbe9fc.chunk.js": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js",
+    "static/js/2.4ecbe9fc.chunk.js.map": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.map",
+    "index.html": "/iuricmp/react-with-custom-icon-font/index.html",
+    "precache-manifest.6d73efc3df652f1710ca90491db84e68.js": "/iuricmp/react-with-custom-icon-font/precache-manifest.6d73efc3df652f1710ca90491db84e68.js",
+    "service-worker.js": "/iuricmp/react-with-custom-icon-font/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/iuricmp/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4ecbe9fc.chunk.js.LICENSE": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.LICENSE",
+    "static/media/logo.svg": "/iuricmp/react-with-custom-icon-font/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18fc4e27.js",
+    "static/js/runtime-main.389f30d3.js",
     "static/js/2.4ecbe9fc.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.11209923.chunk.js"
+    "static/js/main.3fc39d7b.chunk.js"
   ]
 }
