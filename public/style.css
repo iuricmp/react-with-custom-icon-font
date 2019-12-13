@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'breakoutmonitor';
+  src:  url('fonts/breakoutmonitor.eot?jma3a2');
+  src:  url('fonts/breakoutmonitor.eot?jma3a2#iefix') format('embedded-opentype'),
+    url('fonts/breakoutmonitor.ttf?jma3a2') format('truetype'),
+    url('fonts/breakoutmonitor.woff?jma3a2') format('woff'),
+    url('fonts/breakoutmonitor.svg?jma3a2#breakoutmonitor') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="bm-"], [class*=" bm-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'breakoutmonitor' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bm-icon_search:before {
+  content: "\e900";
+}
+.bm-icon_pointer:before {
+  content: "\e901";
+}
+.bm-icon_edit:before {
+  content: "\e902";
+}
+.bm-menu_icon_analyst_ratings:before {
+  content: "\e903";
+}
+.bm-menu_icon_breakout:before {
+  content: "\e904";
+}
+.bm-menu_icon_dashboard:before {
+  content: "\e905";
+}
+.bm-menu_icon_news:before {
+  content: "\e906";
+}
+.bm-menu_icon_settings:before {
+  content: "\e907";
+}
+.bm-menu_icon_watchlist:before {
+  content: "\e908";
+}
