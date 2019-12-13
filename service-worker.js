@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/iuricmp/react-with-custom-icon-font/precache-manifest.6d73efc3df652f1710ca90491db84e68.js"
+  "/iuricmp/react-with-custom-icon-font/precache-manifest.66ee2f7a34036ccd82597e102eb256cb.js"
 );
 
 self.addEventListener('message', (event) => {
