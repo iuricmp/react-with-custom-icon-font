@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/iuricmp/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css",
-    "main.js": "/iuricmp/react-with-custom-icon-font/static/js/main.3fc39d7b.chunk.js",
-    "main.js.map": "/iuricmp/react-with-custom-icon-font/static/js/main.3fc39d7b.chunk.js.map",
-    "runtime-main.js": "/iuricmp/react-with-custom-icon-font/static/js/runtime-main.389f30d3.js",
-    "runtime-main.js.map": "/iuricmp/react-with-custom-icon-font/static/js/runtime-main.389f30d3.js.map",
-    "static/js/2.4ecbe9fc.chunk.js": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js",
-    "static/js/2.4ecbe9fc.chunk.js.map": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.map",
-    "index.html": "/iuricmp/react-with-custom-icon-font/index.html",
-    "precache-manifest.66ee2f7a34036ccd82597e102eb256cb.js": "/iuricmp/react-with-custom-icon-font/precache-manifest.66ee2f7a34036ccd82597e102eb256cb.js",
-    "service-worker.js": "/iuricmp/react-with-custom-icon-font/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/iuricmp/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4ecbe9fc.chunk.js.LICENSE": "/iuricmp/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.LICENSE",
-    "static/media/logo.svg": "/iuricmp/react-with-custom-icon-font/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-with-custom-icon-font/static/js/main.a55ed503.chunk.js",
+    "main.js.map": "/react-with-custom-icon-font/static/js/main.a55ed503.chunk.js.map",
+    "runtime-main.js": "/react-with-custom-icon-font/static/js/runtime-main.1f15e215.js",
+    "runtime-main.js.map": "/react-with-custom-icon-font/static/js/runtime-main.1f15e215.js.map",
+    "static/js/2.4ecbe9fc.chunk.js": "/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js",
+    "static/js/2.4ecbe9fc.chunk.js.map": "/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.map",
+    "index.html": "/react-with-custom-icon-font/index.html",
+    "precache-manifest.d6f7673df9218de8291a304de4f91252.js": "/react-with-custom-icon-font/precache-manifest.d6f7673df9218de8291a304de4f91252.js",
+    "service-worker.js": "/react-with-custom-icon-font/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-with-custom-icon-font/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4ecbe9fc.chunk.js.LICENSE": "/react-with-custom-icon-font/static/js/2.4ecbe9fc.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-with-custom-icon-font/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.389f30d3.js",
+    "static/js/runtime-main.1f15e215.js",
     "static/js/2.4ecbe9fc.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.3fc39d7b.chunk.js"
+    "static/js/main.a55ed503.chunk.js"
   ]
 }
